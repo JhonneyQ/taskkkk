@@ -1,0 +1,41 @@
+.class1{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    margin-left: 40px;
+    border-radius: 10%;
+}
+
+.class2{
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    margin: 0px 20px;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+.class3{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 20%;
+}
+
+.class4{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin: 0px 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20%;
+}
+
+
+.main {
+    border: solid 1px black;
+    display: flex;
+    margin: 10px 0px;
+}

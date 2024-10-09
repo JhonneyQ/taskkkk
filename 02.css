@@ -1,0 +1,51 @@
+body main{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/home-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: solid red;
+    width: 100vw;
+    height: 30vw
+    
+}
+    
+main h1{
+    font-size: 60px;
+}
+main{
+    color: white;
+}
+
+main h1{
+    text-align: center;
+}
+main h2{
+    text-align: center;
+}
+main a{
+    margin: 50px 50px;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+main div ul{
+    
+    margin-left: 1550px;
+    display: flex;
+    font-size: 20px;
+    
+}
+
+
+main div ul li:nth-child(n+1){
+    text-align: right;
+    display: flex;
+    margin: 0px 10px;
+}
+*{
+    margin: 0px 0px;
+    box-sizing: border-box;
+}
+

@@ -1,0 +1,88 @@
+body{
+    background-color: purple;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+#abb{
+    text-align:  bottom;
+
+}
+
+.main{
+    text-align: center;
+    display: flex;
+    margin: 0 500px;
+
+    
+}
+
+.class{
+    width: 500px;
+    height: 370px;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 10%;
+    
+    
+    
+    
+    
+}
+.class img{
+    border-radius: 50%;
+    width: 200px;
+    border: solid purple;
+}
+
+
+.class1{
+    width: 500px;
+    height: 370px;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0px 50px;
+    border-radius: 10%;
+    
+}
+.class1 img{
+    border-radius: 50%;
+    width: 200px;
+    border: solid purple;
+}
+
+.class2{
+    width: 500px;
+    height: 370px;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 10%;
+}
+.class2 img{
+    border-radius: 50%;
+    width: 200px;
+    border: solid purple;
+}
+
+.main button{
+    background-color: white;
+    border:solid 2px purple;
+    color: purple;
+    border-radius: 13%;
+    
+    
+}
+
+.main button:hover{
+    width: 100px;
+    height: 30px;
+    background-color: purple;
+    color: white;
+    margin-bottom: 30px;
+    transition: all 0.5s;
+}
